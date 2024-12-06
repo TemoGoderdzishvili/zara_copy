@@ -1,9 +1,6 @@
 .mainWrapper{
     display: flex;
 }
-
-
-
 .cardWrapper{
     width: 370px;
     display: flex;

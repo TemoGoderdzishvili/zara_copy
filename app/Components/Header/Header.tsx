@@ -1,5 +1,5 @@
 import styles from "./Header.module.css"
-import Logo from "./Images/Zara_Logo.svg.png"
+import Logo from "../Images/Zara_Logo.svg.png"
 import Image from "next/image"
 import Link from "next/link"
 
