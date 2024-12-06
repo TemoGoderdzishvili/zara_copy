@@ -3,7 +3,7 @@
     flex-direction: column;
     position: sticky;
     top: 0;
-    margin-bottom: 50px;
+    padding-bottom: 50px;
 }
 .link{
     text-decoration: none;
@@ -28,7 +28,7 @@
     border-top: none;
     border-left: none;
     border-right: none;
-    border-bottom: 2px solid grey;
+    border-bottom: 1px solid grey;
     color: grey;
     font-size: 15px;
 }
